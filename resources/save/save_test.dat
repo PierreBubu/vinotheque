@@ -1,0 +1,11 @@
+title_nb_cols=7
+wine_nb_rows=4
+
+Couleur||Domaine||Complément||Millésime||Région||Data d'achat||Stock
+
+Blanc||Domaine G.Bouton||Meursault 1er cru Les Charmes||Bourgogne||2013||2015||3
+Blanc||Domaine de la Chapelle||Meursault||Bourgogne||2013||2015||3
+Blanc||Domaine de la Chapelle||Santenay 1er cru||Bourgogne||2013||2015||3
+Rouge||Domaine F.Gay||Corton Renardes (GC)||Bourgogne||2011||2015||3
+
+
